@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.4">
   <diagram name="Página-1" id="yW4ASweBxdBN2BPhio3t">
-    <mxGraphModel dx="927" dy="1117" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,24 +94,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-15" value="Como?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF9B2A);" vertex="1" parent="1">
-          <mxGeometry x="733" y="-251" width="116" height="80" as="geometry" />
+          <mxGeometry x="733" y="-322" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoAJyJmavI12isEZwWaQ-18" target="DoAJyJmavI12isEZwWaQ-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-18" value="Sabotando sua guitarra, cortando seu fio de aterramento" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
-          <mxGeometry x="896" y="-243" width="140" height="60" as="geometry" />
+          <mxGeometry x="896" y="-312" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoAJyJmavI12isEZwWaQ-22" target="DoAJyJmavI12isEZwWaQ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-22" value="Empurrando um objeto pesado sobre ele" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
-          <mxGeometry x="896" y="-344" width="140" height="60" as="geometry" />
+          <mxGeometry x="896" y="-413" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoAJyJmavI12isEZwWaQ-25" target="DoAJyJmavI12isEZwWaQ-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="925" y="-27" />
+              <mxPoint x="925" y="-96" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,40 +119,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-25" value="Deixando o gás ligado na cozinha" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
-          <mxGeometry x="896" y="-142" width="140" height="60" as="geometry" />
+          <mxGeometry x="896" y="-211" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoAJyJmavI12isEZwWaQ-27" target="DoAJyJmavI12isEZwWaQ-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-27" value="Gás acende, seja pelo Jogador ou pela vítima" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
-          <mxGeometry x="963" y="-43" width="120" height="60" as="geometry" />
+          <mxGeometry x="963" y="-112" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoAJyJmavI12isEZwWaQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoAJyJmavI12isEZwWaQ-32" target="DoAJyJmavI12isEZwWaQ-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-32" value="Como?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF9B2A);" vertex="1" parent="1">
           <mxGeometry x="733" y="140" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-37" value="Vítima morre esmagada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
-          <mxGeometry x="1129" y="-344" width="120" height="60" as="geometry" />
+          <mxGeometry x="1129" y="-413" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-38" value="Vítima morre eletrocutada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
-          <mxGeometry x="1129" y="-243" width="120" height="60" as="geometry" />
+          <mxGeometry x="1129" y="-312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-39" value="Vítima morre asfixiada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
-          <mxGeometry x="1129" y="-142" width="120" height="60" as="geometry" />
+          <mxGeometry x="1129" y="-211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-40" value="Vítima morre explodida e queimada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
-          <mxGeometry x="1129" y="-43" width="120" height="60" as="geometry" />
+          <mxGeometry x="1129" y="-112" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-49" value="FIM DO PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
-          <mxGeometry x="247" y="-557" width="120" height="60" as="geometry" />
+          <mxGeometry x="247" y="-617" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-50" value="TOMADA DE DECISÃO" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF9B2A);" vertex="1" parent="1">
-          <mxGeometry x="412" y="-567" width="159" height="80" as="geometry" />
+          <mxGeometry x="412" y="-627" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-51" value="COMEÇO DO PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1F7427);" vertex="1" parent="1">
-          <mxGeometry x="82" y="-557" width="120" height="60" as="geometry" />
+          <mxGeometry x="82" y="-617" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DoAJyJmavI12isEZwWaQ-52" value="PROCESSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
-          <mxGeometry x="-83" y="-557" width="120" height="60" as="geometry" />
+          <mxGeometry x="-83" y="-617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoAJyJmavI12isEZwWaQ-53" value="Espalhando mentiras pela vizinhança" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
+          <mxGeometry x="896" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoAJyJmavI12isEZwWaQ-55" value="O incriminando" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
+          <mxGeometry x="896" y="234" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
