@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36" version="26.2.4">
   <diagram name="Página-1" id="yW4ASweBxdBN2BPhio3t">
-    <mxGraphModel>
+    <mxGraphModel dx="1120" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gNmmxlL4wJlJUCpWX8X0-3" target="gNmmxlL4wJlJUCpWX8X0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-3" value="Jogador precisará matar a Vítima até o fim da semana, para ganhar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="-337" width="120" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gNmmxlL4wJlJUCpWX8X0-4" target="gNmmxlL4wJlJUCpWX8X0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gNmmxlL4wJlJUCpWX8X0-4" target="gNmmxlL4wJlJUCpWX8X0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-4" value="Como ele fará isso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131.5" y="-188" width="183" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-5" value="Diretamente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="-31" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-6" value="Indiretamente&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="-31" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-10" value="Como?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="112" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-11" value="Como?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="112" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-12" value="Causando um acidente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="122" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-13" value="Fazendo outra pessoa o matar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="231" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-14" value="Fazendo ele se matar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-15" value="Com uma arma corpo a corpo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-16" value="Com uma arma a distância&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmmxlL4wJlJUCpWX8X0-19" value="Com veneno" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
