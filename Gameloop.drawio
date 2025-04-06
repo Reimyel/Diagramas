@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.6">
   <diagram name="Página-1" id="yW4ASweBxdBN2BPhio3t">
-    <mxGraphModel dx="2385" dy="1514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2464" dy="1561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,8 +235,20 @@
         <mxCell id="W_X5vwiiyns5Jw91aGNf-33" value="Vítima morre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
           <mxGeometry x="-905" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W_X5vwiiyns5Jw91aGNf-36" value="Que arma?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF9B2A);" vertex="1" parent="1">
+        <mxCell id="W_X5vwiiyns5Jw91aGNf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W_X5vwiiyns5Jw91aGNf-36" target="W_X5vwiiyns5Jw91aGNf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_X5vwiiyns5Jw91aGNf-36" value="Como?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF9B2A);" vertex="1" parent="1">
           <mxGeometry x="-419" y="245" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_X5vwiiyns5Jw91aGNf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W_X5vwiiyns5Jw91aGNf-40" target="W_X5vwiiyns5Jw91aGNf-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_X5vwiiyns5Jw91aGNf-40" value="Envenenando seu café" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3B2CAC);" vertex="1" parent="1">
+          <mxGeometry x="-550" y="306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_X5vwiiyns5Jw91aGNf-43" value="Vítima morre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF4B51);" vertex="1" parent="1">
+          <mxGeometry x="-718" y="309" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
