@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="Página-1" id="eJPzP4uebO6xKwLf0bKw">
-    <mxGraphModel>
+    <mxGraphModel dx="1051" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-3" value="BEGINNING" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#047700);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-4" value="PROCESS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00069A);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-5" value="END" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-7" value="Connor arrives" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#047700);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-8" value="Connor stashes his things in his locker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00069A);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-9" value="Connor logs in his desktop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00069A);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-12" value="Max talks to Connor and leaves the office" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00069A);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-13" value="Connor works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E28F00);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-14" value="Connor works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00069A);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-15" value="Connor hears footsteps and talking outside the office" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00069A);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfWS3jNEsv2x_3nFspHm-16" value="WORK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E28F00);fontColor=light-dark(#FFFFFF,#E9E9E9);strokeColor=light-dark(#005700,#FFFFFF);strokeWidth=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
