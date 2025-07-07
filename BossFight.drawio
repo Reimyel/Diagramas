@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.2.0">
   <diagram name="Página-1" id="-WXcRcZX3HXNQF5mQ1T5">
-    <mxGraphModel>
+    <mxGraphModel dx="994" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-1" target="FJtPStaCHCZ6-Py3G7Vr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-1" value="START" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00FF3F);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-2" target="FJtPStaCHCZ6-Py3G7Vr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-2" value="Drake floats around bouncing on the room" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#52A6FF);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="296" y="130" width="188" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-4" target="FJtPStaCHCZ6-Py3G7Vr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-4" target="FJtPStaCHCZ6-Py3G7Vr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-4" target="FJtPStaCHCZ6-Py3G7Vr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-4" target="FJtPStaCHCZ6-Py3G7Vr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-4" value="Drake attacks" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFC23E);fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="291" y="324" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-6" value="Spawns Dragon Flies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#52A6FF);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="581" y="320" width="188" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-8" value="Spawns 6 orbiting flies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#52A6FF);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="411" y="464" width="188" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-10" value="Dash and Slam with lava lines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#52A6FF);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="191" y="464" width="188" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-13" value="Flies upwards, crashing down and sending debris" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#52A6FF);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="11" y="320" width="188" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-17" target="FJtPStaCHCZ6-Py3G7Vr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-24" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FJtPStaCHCZ6-Py3G7Vr-21">
+          <mxGeometry x="0.2238" y="-2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-17" target="FJtPStaCHCZ6-Py3G7Vr-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="280" />
+              <mxPoint x="391" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-28" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FJtPStaCHCZ6-Py3G7Vr-27">
+          <mxGeometry x="0.0437" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-17" value="Is the Drake dead?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFC23E);fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="520" y="134" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJtPStaCHCZ6-Py3G7Vr-20" target="FJtPStaCHCZ6-Py3G7Vr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-20" value="Spawns 6 flies, one of them being a Dragon Fly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#52A6FF);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="800" y="130" width="188" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtPStaCHCZ6-Py3G7Vr-22" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF0000);strokeColor=none;fontSize=20;fontColor=light-dark(#000000,#E9E9E9);" vertex="1" parent="1">
+          <mxGeometry x="834" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
