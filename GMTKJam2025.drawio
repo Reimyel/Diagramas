@@ -63,10 +63,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-15" value="Luta acaba" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9A3434);" vertex="1" parent="1">
-          <mxGeometry x="300" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-18" target="Qa6UDb0__CtFwgnaw2m8-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-18" value="Ataque Limite: PAREDE DE PLANTA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
@@ -96,7 +100,12 @@
           <mxGeometry x="300" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-37" target="Qa6UDb0__CtFwgnaw2m8-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="910" />
+              <mxPoint x="720" y="910" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-40" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-39">
           <mxGeometry x="-0.15" relative="1" as="geometry">
@@ -106,7 +115,7 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-37" target="Qa6UDb0__CtFwgnaw2m8-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="820" />
+              <mxPoint x="520" y="800" />
               <mxPoint x="520" y="530" />
             </Array>
           </mxGeometry>
@@ -117,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-37" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="300" y="780" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-44" value="CORE LOOP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-200" y="80" width="360" height="30" as="geometry" />
@@ -203,9 +212,7 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-94" target="Qa6UDb0__CtFwgnaw2m8-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="880" />
-              <mxPoint x="440" y="880" />
-              <mxPoint x="440" y="840" />
+              <mxPoint x="600" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -282,9 +289,7 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-116" target="Qa6UDb0__CtFwgnaw2m8-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="880" />
-              <mxPoint x="440" y="880" />
-              <mxPoint x="440" y="840" />
+              <mxPoint x="840" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -361,9 +366,7 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-137" target="Qa6UDb0__CtFwgnaw2m8-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1080" y="880" />
-              <mxPoint x="440" y="880" />
-              <mxPoint x="440" y="840" />
+              <mxPoint x="1080" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
