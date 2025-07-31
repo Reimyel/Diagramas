@@ -1,9 +1,31 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Página-1" id="3i8s2AD5zy0yII2b-ubV">
-    <mxGraphModel>
+    <mxGraphModel dx="617" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vBZ28ntpl9EyvHKrwXHW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBZ28ntpl9EyvHKrwXHW-1" target="vBZ28ntpl9EyvHKrwXHW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBZ28ntpl9EyvHKrwXHW-1" value="Jogador aprende feitiço novo que o permite passar por um obstáculo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBZ28ntpl9EyvHKrwXHW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBZ28ntpl9EyvHKrwXHW-2" target="vBZ28ntpl9EyvHKrwXHW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBZ28ntpl9EyvHKrwXHW-2" value="Jogador combate o Mestre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBZ28ntpl9EyvHKrwXHW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBZ28ntpl9EyvHKrwXHW-3" target="vBZ28ntpl9EyvHKrwXHW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBZ28ntpl9EyvHKrwXHW-3" value="Jogador morre por um obstáculo inacessível no momento atual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
