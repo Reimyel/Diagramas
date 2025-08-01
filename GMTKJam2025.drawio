@@ -546,6 +546,18 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-285" value="Jogador derrotou o Mestre Mago sem morrer?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
           <mxGeometry x="1340" y="840" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-293" value="COMEÇO DO PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#104E0E);" vertex="1" parent="1">
+          <mxGeometry x="860" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-297" value="FIM DO PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9A3434);" vertex="1" parent="1">
+          <mxGeometry x="1020" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-298" value="TOMADA DE DECISÃO" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
+          <mxGeometry x="1340" y="95" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-299" value="PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
