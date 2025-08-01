@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Página-1" id="3i8s2AD5zy0yII2b-ubV">
-    <mxGraphModel dx="2790" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-168" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="1280" height="1000" as="geometry" />
+          <mxGeometry x="200" y="1240" width="1320" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-167" value="FLUXOGRAMA DE GAMEPLAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="50" width="1200" height="30" as="geometry" />
@@ -53,83 +53,84 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-6" value="Troca de cena, luta contra Mestre Mago inicia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-7" target="Qa6UDb0__CtFwgnaw2m8-24">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-7" target="Qa6UDb0__CtFwgnaw2m8-300">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-7" value="1° sequência de padrões de ataque normais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-15" target="Qa6UDb0__CtFwgnaw2m8-1">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-15" target="Qa6UDb0__CtFwgnaw2m8-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300.0000000000001" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="990" />
+              <mxPoint x="720" y="1160" />
+              <mxPoint x="240" y="1160" />
               <mxPoint x="240" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-15" value="Luta acaba" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9A3434);" vertex="1" parent="1">
-          <mxGeometry x="660" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-18" target="Qa6UDb0__CtFwgnaw2m8-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-18" value="Ataque Limite: PAREDE DE PLANTA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-24" target="Qa6UDb0__CtFwgnaw2m8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-177" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-176">
           <mxGeometry x="-0.2583" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-24" target="Qa6UDb0__CtFwgnaw2m8-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="680" />
+              <mxPoint x="440" y="790" />
               <mxPoint x="440" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-246" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-245">
           <mxGeometry x="-0.0313" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-24" value="Mestre Mago está em 75% da vida?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="300" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-37" target="Qa6UDb0__CtFwgnaw2m8-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="880" />
-              <mxPoint x="480" y="590" />
+              <mxPoint x="520" y="990" />
+              <mxPoint x="520" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-182" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-181">
           <mxGeometry x="0.0415" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="171" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-37" target="Qa6UDb0__CtFwgnaw2m8-15">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-37" target="Qa6UDb0__CtFwgnaw2m8-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="950" as="targetPoint" />
+            <mxPoint x="630" y="1100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="940" />
-              <mxPoint x="720" y="940" />
+              <mxPoint x="360" y="1120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-228" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-218">
-          <mxGeometry x="-0.8938" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-1" as="offset" />
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-314" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-307">
+          <mxGeometry x="-0.9074" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-37" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="300" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-44" value="CORE LOOP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-200" y="50" width="360" height="30" as="geometry" />
@@ -195,7 +196,7 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-85" value="Jogador aprende o feitiço&amp;nbsp;BOLA DE FOGO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-92" target="Qa6UDb0__CtFwgnaw2m8-99">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-92" target="Qa6UDb0__CtFwgnaw2m8-317">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-92" value="2° sequência de padrões de ataque normais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -205,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-94" value="Ataque Limite: CHUVA DE METEOROS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-99" target="Qa6UDb0__CtFwgnaw2m8-94" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -216,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-99" value="Mestre Mago está em 50% da vida?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="540" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-109" target="Qa6UDb0__CtFwgnaw2m8-111" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -253,6 +254,9 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-111" value="Jogador aprende o feitiço&amp;nbsp;PASSO DAS SOMBRAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-115" target="Qa6UDb0__CtFwgnaw2m8-327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-115" value="3° sequência de padrões de ataque normais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -278,37 +282,44 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-132" value="Jogador aprende o feitiço GUARDA-CHUVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-136" target="Qa6UDb0__CtFwgnaw2m8-333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-136" value="4° sequência de padrões de ataque normais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-195" target="Qa6UDb0__CtFwgnaw2m8-115">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="990" />
+              <mxPoint x="760" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-198" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-197">
           <mxGeometry x="0.0333" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="168" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-195">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-195" target="Qa6UDb0__CtFwgnaw2m8-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1070" />
+              <mxPoint x="720" y="1070" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-229" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-226">
-          <mxGeometry x="-0.7551" relative="1" as="geometry">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-342" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-226">
+          <mxGeometry x="-0.8074" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-195" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="540" y="840" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Qa6UDb0__CtFwgnaw2m8-200" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="620" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="540" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-200" value="Mestre Mago está em 25% da vida?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="780" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="780" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-200" target="Qa6UDb0__CtFwgnaw2m8-203" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -319,40 +330,44 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-203" value="Ataque Limite: CHUVA NORMAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-203" target="Qa6UDb0__CtFwgnaw2m8-205" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-205">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-205" target="Qa6UDb0__CtFwgnaw2m8-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="960" as="targetPoint" />
+            <mxPoint x="730" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1070" />
+              <mxPoint x="720" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-340" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-227">
+          <mxGeometry x="-0.8074" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-205" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="780" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="780" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-205" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="880" />
-              <mxPoint x="960" y="590" />
+              <mxPoint x="1000" y="990" />
+              <mxPoint x="1000" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-207" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-206">
           <mxGeometry x="0.0333" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Qa6UDb0__CtFwgnaw2m8-210" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="620" as="sourcePoint" />
+            <mxPoint x="1" y="168" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-210" value="Mestre Mago está em 0% da vida?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="1020" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-210" target="Qa6UDb0__CtFwgnaw2m8-213" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -363,29 +378,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-213" value="Ataque Limite: ATAQUE FINAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-214">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-214" target="Qa6UDb0__CtFwgnaw2m8-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="960" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="940" />
-              <mxPoint x="720" y="940" />
-              <mxPoint x="720" y="950" />
+              <mxPoint x="1080" y="1120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-230" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-223">
-          <mxGeometry x="0.3012" y="-1" relative="1" as="geometry">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-338" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-223">
+          <mxGeometry x="-0.9095" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-231" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-223">
-          <mxGeometry x="-0.9126" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-214">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-214" target="Qa6UDb0__CtFwgnaw2m8-282">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1179.9999999999995" y="880.0000000000002" as="targetPoint" />
           </mxGeometry>
@@ -396,13 +404,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-214" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="1020" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Qa6UDb0__CtFwgnaw2m8-213" target="Qa6UDb0__CtFwgnaw2m8-214" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-247" value="Final Alternativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9A3434);" vertex="1" parent="1">
-          <mxGeometry x="1340" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-250" target="Qa6UDb0__CtFwgnaw2m8-6">
           <mxGeometry relative="1" as="geometry">
@@ -473,59 +481,61 @@
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-266" value="Jogador já atingiu 25% da vida do Mestre Mago?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
           <mxGeometry x="1100" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-99">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="680" as="sourcePoint" />
             <mxPoint x="660" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="680" />
+              <mxPoint x="680" y="790" />
               <mxPoint x="680" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-274" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-273">
-          <mxGeometry x="-0.0313" y="1" relative="1" as="geometry">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-319" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-273">
+          <mxGeometry x="-0.3401" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-200">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="680" as="sourcePoint" />
             <mxPoint x="900" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="680" />
+              <mxPoint x="920" y="790" />
               <mxPoint x="920" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-276" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-275">
           <mxGeometry x="-0.0313" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-210">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1140" y="680" as="sourcePoint" />
             <mxPoint x="1140" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="680" />
+              <mxPoint x="1160" y="790" />
               <mxPoint x="1160" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-278" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-277">
-          <mxGeometry x="-0.0313" y="1" relative="1" as="geometry">
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-337" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-277">
+          <mxGeometry x="-0.3389" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-281" value="Final Verdadeiro" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9A3434);" vertex="1" parent="1">
-          <mxGeometry x="1340" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-282" target="Qa6UDb0__CtFwgnaw2m8-285">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qa6UDb0__CtFwgnaw2m8-285">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="900" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-282" value="Luta acaba" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-285" target="Qa6UDb0__CtFwgnaw2m8-281">
           <mxGeometry relative="1" as="geometry" />
@@ -543,20 +553,124 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa6UDb0__CtFwgnaw2m8-285" value="Jogador derrotou o Mestre Mago sem morrer?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="1340" y="840" width="120" height="80" as="geometry" />
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-285" value="Jogador derrotou o Mestre Mago tendo aprendido 3 feitiços ou menos?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
+          <mxGeometry x="1430" y="840" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-293" value="COMEÇO DO PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#104E0E);" vertex="1" parent="1">
-          <mxGeometry x="860" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-297" value="FIM DO PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9A3434);" vertex="1" parent="1">
-          <mxGeometry x="1020" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-298" value="TOMADA DE DECISÃO" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
-          <mxGeometry x="1340" y="95" width="120" height="80" as="geometry" />
+          <mxGeometry x="1390" y="95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qa6UDb0__CtFwgnaw2m8-299" value="PROCESSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qa6UDb0__CtFwgnaw2m8-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.998260869565" y="680.0434782608695" as="sourcePoint" />
+            <mxPoint x="640" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="680" />
+              <mxPoint x="480" y="1090" />
+              <mxPoint x="640" y="1090" />
+              <mxPoint x="640" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-318" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-302">
+          <mxGeometry x="-0.6678" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-300" target="Qa6UDb0__CtFwgnaw2m8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-305" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-304">
+          <mxGeometry x="0.36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-300" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-317" target="Qa6UDb0__CtFwgnaw2m8-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-321" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-320">
+          <mxGeometry x="-0.7446" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-317" target="Qa6UDb0__CtFwgnaw2m8-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-324" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-323">
+          <mxGeometry x="0.3372" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-317" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-327" target="Qa6UDb0__CtFwgnaw2m8-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-330" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-329">
+          <mxGeometry x="0.3267" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-327" target="Qa6UDb0__CtFwgnaw2m8-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="680" />
+              <mxPoint x="960" y="1090" />
+              <mxPoint x="800" y="1090" />
+              <mxPoint x="800" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-345" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-331">
+          <mxGeometry x="-0.8216" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-327" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-333" target="Qa6UDb0__CtFwgnaw2m8-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-336" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-335">
+          <mxGeometry x="0.3435" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa6UDb0__CtFwgnaw2m8-333" target="Qa6UDb0__CtFwgnaw2m8-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="680" />
+              <mxPoint x="1200" y="1140" />
+              <mxPoint x="800" y="1140" />
+              <mxPoint x="800" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-344" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa6UDb0__CtFwgnaw2m8-343">
+          <mxGeometry x="-0.8788" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qa6UDb0__CtFwgnaw2m8-333" value="Mestre Mago matou o Jogador?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#E28507);" vertex="1" parent="1">
+          <mxGeometry x="1020" y="640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
