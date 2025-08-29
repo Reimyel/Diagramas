@@ -25,7 +25,7 @@
         <mxCell id="N1j262DqvNY8Shn2mn2Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-25" target="N1j262DqvNY8Shn2mn2Z-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-25" value="&lt;div&gt;CARRINHO&lt;/div&gt;&lt;div&gt;- lista de itens&lt;/div&gt;&lt;div&gt;- observações&lt;/div&gt;&lt;div&gt;- cálculo frete e tempo de entrega&lt;/div&gt;&lt;div&gt;- forma de pagamento&lt;/div&gt;&lt;div&gt;- finalizar pedido&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-25" value="&lt;div&gt;CARRINHO&lt;/div&gt;&lt;div&gt;- lista de itens&lt;/div&gt;&lt;div&gt;- observações&lt;/div&gt;&lt;div&gt;- cálculo frete e tempo de entrega&lt;/div&gt;&lt;div&gt;- forma de pagamento&lt;/div&gt;&lt;div&gt;- cupons e descontos&lt;/div&gt;&lt;div&gt;- finalizar pedido&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N1j262DqvNY8Shn2mn2Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-26" target="N1j262DqvNY8Shn2mn2Z-27">
