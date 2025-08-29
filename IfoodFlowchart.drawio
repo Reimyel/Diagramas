@@ -1,35 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.0.7">
   <diagram name="Página-1" id="tJkTnY5mLUtXwQQKuwWR">
-    <mxGraphModel dx="663" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-1" target="N1j262DqvNY8Shn2mn2Z-2">
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-1" target="N1j262DqvNY8Shn2mn2Z-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-1" value="&lt;div&gt;TELA INICIAL&lt;/div&gt;&lt;div&gt;(logo animada)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#11A200);strokeColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
-          <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-1" value="&lt;div&gt;ONBOARDING&lt;/div&gt;&lt;div&gt;- splash screen&lt;/div&gt;&lt;div&gt;- login / cadastro&lt;/div&gt;&lt;div&gt;- recuperação de senha&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#11A200);strokeColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-2" target="N1j262DqvNY8Shn2mn2Z-4">
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-23" target="N1j262DqvNY8Shn2mn2Z-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-2" value="&lt;div&gt;TELA PRINCIPAL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
-          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-23" value="&lt;div&gt;HOME&lt;/div&gt;&lt;div&gt;- barra de pesquisa&lt;/div&gt;&lt;div&gt;- categorias&lt;/div&gt;&lt;div&gt;- restaurantes&lt;/div&gt;&lt;div&gt;- atalhos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-4" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFBF00);" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-24" target="N1j262DqvNY8Shn2mn2Z-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-5" value="FARMÁCIAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
-          <mxGeometry x="525" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-24" value="&lt;div&gt;RESTAURANTE&lt;/div&gt;&lt;div&gt;- foto, nome, avaliação, tempo de entrega, taxa&lt;/div&gt;&lt;div&gt;- cardápio em seções&lt;/div&gt;&lt;div&gt;- add carrinho&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-6" value="HITS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
-          <mxGeometry x="655" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-25" target="N1j262DqvNY8Shn2mn2Z-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-7" value="MERCADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
-          <mxGeometry x="395" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-25" value="&lt;div&gt;CARRINHO&lt;/div&gt;&lt;div&gt;- lista de itens&lt;/div&gt;&lt;div&gt;- observações&lt;/div&gt;&lt;div&gt;- cálculo frete e tempo de entrega&lt;/div&gt;&lt;div&gt;- forma de pagamento&lt;/div&gt;&lt;div&gt;- finalizar pedido&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="N1j262DqvNY8Shn2mn2Z-8" value="RESTAURANTES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
-          <mxGeometry x="265" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-26" target="N1j262DqvNY8Shn2mn2Z-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-26" value="&lt;div&gt;CHECKOUT&lt;/div&gt;&lt;div&gt;- endereço de entrega&lt;/div&gt;&lt;div&gt;- forma de pagamento&lt;/div&gt;&lt;div&gt;- revisão pedido&lt;/div&gt;&lt;div&gt;- confirmar pedido&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-27" target="N1j262DqvNY8Shn2mn2Z-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-27" value="&lt;div&gt;ACOMPANHAMENTO&lt;/div&gt;&lt;div&gt;- status do pedido (preparando -&amp;gt; a caminho -&amp;gt; entregue)&lt;/div&gt;&lt;div&gt;- localização do entregador em tempo real&lt;/div&gt;&lt;div&gt;- detalhes do pedido&lt;/div&gt;&lt;div&gt;- tempo estimado, chat com restaurante&lt;/div&gt;&lt;div&gt;- cancelar pedido&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-28" target="N1j262DqvNY8Shn2mn2Z-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-28" value="&lt;div&gt;HISTÓRICO&lt;/div&gt;&lt;div&gt;- pedidos anteriores&lt;/div&gt;&lt;div&gt;- pedir novamente&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-29" value="&lt;div&gt;CONTA (CLIENTE)&lt;/div&gt;&lt;div&gt;- dados pessoais&lt;/div&gt;&lt;div&gt;- endereços&lt;/div&gt;&lt;div&gt;- formas de pagamento&lt;/div&gt;&lt;div&gt;- notificações&lt;/div&gt;&lt;div&gt;- configurações&lt;/div&gt;&lt;div&gt;- suporte / ajuda&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#D00000);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="440" y="1000" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
