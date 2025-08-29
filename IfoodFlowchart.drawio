@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.0.7">
   <diagram name="Página-1" id="tJkTnY5mLUtXwQQKuwWR">
-    <mxGraphModel>
+    <mxGraphModel dx="448" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-1" value="&lt;div&gt;TELA INICIAL&lt;/div&gt;&lt;div&gt;(logo animada)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#11A200);strokeColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-2" value="&lt;div&gt;TELA PRINCIPAL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-4" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFBF00);" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-5" value="FARMÁCIAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="525" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-6" value="HITS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="655" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-7" value="MERCADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-8" value="RESTAURANTES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
