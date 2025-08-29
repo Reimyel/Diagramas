@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.0.7">
   <diagram name="Página-1" id="tJkTnY5mLUtXwQQKuwWR">
-    <mxGraphModel dx="448" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-1" target="N1j262DqvNY8Shn2mn2Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N1j262DqvNY8Shn2mn2Z-1" value="&lt;div&gt;TELA INICIAL&lt;/div&gt;&lt;div&gt;(logo animada)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#11A200);strokeColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N1j262DqvNY8Shn2mn2Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N1j262DqvNY8Shn2mn2Z-2" target="N1j262DqvNY8Shn2mn2Z-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N1j262DqvNY8Shn2mn2Z-2" value="&lt;div&gt;TELA PRINCIPAL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1850AA);strokeColor=none;fontColor=light-dark(#000000,#E4E4E4);" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
